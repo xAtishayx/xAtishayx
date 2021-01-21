@@ -7,6 +7,7 @@ This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), F
 
   <img align="right" alt="GIF" src="https://github.com/xAtishayx/xAtishayx/blob/main/code.gif?raw=true" width="500" height="320" />
   
+<br />
 
 **Talking about Personal Stuffs:**
 
@@ -24,7 +25,7 @@ This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), F
 #### **Languages and Tools:**  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xatishayx&layout=compact)](https://github.com/xAtishayx?tab=repositories)
-<br/>
+<br/> <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)

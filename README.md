@@ -3,7 +3,7 @@
 
 <br />
 
-This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), Frontend Engineer and a Problem solver 🚀 from India.
+This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), Frontend Engineer and a Problem Solver 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/xAtishayx/xAtishayx/blob/main/code.gif?raw=true" width="500" height="320" />
   
@@ -22,12 +22,16 @@ This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), F
 [![Gmail Badge](https://img.shields.io/badge/-atishay.srivastava.10-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atishay.srivastava.10@gmail.com)](mailto:atishay.srivastava.10@gmail.com)
 <br />
 #### **Languages and Tools:**  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xatishayx&layout=compact)](https://github.com/xAtishayx?tab=repositories)
+<br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xatishayx&layout=compact)](https://github.com/xAtishayx?tab=repositories)
 
 
 

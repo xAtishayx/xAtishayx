@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Atishay Srivastava!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), MERN based Developer and a problem solver 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/xAtihsayx/xAtishayx/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/xAtihsayx/xAtishayx/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 

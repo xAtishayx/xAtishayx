@@ -1,40 +1,26 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=xAtishayx.xAtishayx)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**xAtishayx/xAtishayx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <br />
 
 This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), Frontend Engineer and a Problem solver 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/xAtishayx/xAtishayx/blob/main/code.gif?raw=true" width="500" height="320" />
   
-[![Instagram Badge](https://img.shields.io/badge/-fake_atishay-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fake_atishay/)](https://www.instagram.com/fake_atishay/)
-[![Gmail Badge](https://img.shields.io/badge/-atishay.srivastava.10-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atishay.srivastava.10@gmail.com)](mailto:atishay.srivastava.10@gmail.com)
-<br />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-- 🌱 I’m currently working on on MicroInteractions, UX design :wink:;
-- 💬 👯 I’m looking to collaborate on WebGL and Three.js;
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AtishaySrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atishay-srivastava-7a1140174/)](https://www.linkedin.com/in/atishay-srivastava-7a1140174/);
-- 📝[Resume](https://drive.google.com/file/d/1Oyx-1gQzb5wqyj3yaslvLstFRbq0OGCL/view)
-
+- 🌱 I’m currently working on on MicroInteractions, UX design :wink:
+- 💬 👯 I’m looking to collaborate on WebGL and Three.js
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AtishaySrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atishay-srivastava-7a1140174/)](https://www.linkedin.com/in/atishay-srivastava-7a1140174/)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1Oyx-1gQzb5wqyj3yaslvLstFRbq0OGCL/view)
+#### **Connect with me:**
+[![Instagram Badge](https://img.shields.io/badge/-fake_atishay-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fake_atishay/)](https://www.instagram.com/fake_atishay/)
+[![Twitter Badge](https://img.shields.io/badge/-xatishayx-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/xatishayx)
+[![Telegram Badge](https://img.shields.io/badge/-xatishayx-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/xatishayx)
+[![Gmail Badge](https://img.shields.io/badge/-atishay.srivastava.10-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atishay.srivastava.10@gmail.com)](mailto:atishay.srivastava.10@gmail.com)
+<br />
 #### **Languages and Tools:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)

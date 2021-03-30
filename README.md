@@ -3,7 +3,7 @@
 
 <br />
 
-This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), Frontend Engineer and a Problem Solver 🚀 from India.
+This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), Software Engineer and a Problem Solver 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/xAtishayx/xAtishayx/blob/main/code.gif?raw=true" width="500" height="320" />
   

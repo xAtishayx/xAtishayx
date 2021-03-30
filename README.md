@@ -15,7 +15,7 @@ This is [Atishay!](https://www.linkedin.com/in/atishay-srivastava-7a1140174/), S
 - 🌱 I’m currently working on on MicroInteractions, UX design :wink:
 - 💬 👯 I’m looking to collaborate on WebGL and Three.js
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AtishaySrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atishay-srivastava-7a1140174/)](https://www.linkedin.com/in/atishay-srivastava-7a1140174/)
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1Oyx-1gQzb5wqyj3yaslvLstFRbq0OGCL/view)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/19MzdX0Pr8aSRSyVms-HPKa0ZFjGFTTw7/view?usp=sharing)
 #### **Connect with me:**
 [![Instagram Badge](https://img.shields.io/badge/-fake_atishay-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fake_atishay/)](https://www.instagram.com/fake_atishay/)
 [![Twitter Badge](https://img.shields.io/badge/-xatishayx-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/xatishayx)
